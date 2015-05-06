@@ -101,17 +101,6 @@ precmd() {
     esac
 }
 
-# ディレクトリ表示
-autoload colors
-colors
-
-PROMPT="
- %{${fg[yellow]}%}%~%{${reset_color}%} 
-[%n]$ "
-
-PROMPT2='[%n]> ' 
-
-
 # ------------------------------
 # Other Settings
 # ------------------------------
