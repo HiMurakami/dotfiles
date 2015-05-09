@@ -1,5 +1,5 @@
 "背景色黒
-highlight Normal ctermbg=black ctermfg=grey
+highlight Normal ctermbg=black ctermfg=white
 
 "マウス操作有効
 set mouse=a

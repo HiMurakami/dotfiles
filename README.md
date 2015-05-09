@@ -1,3 +1,3 @@
 # dotfiles
-#結局Oh-my-zsh使ってるナウ
-#cdしたらlsのみ移植
+#finally i use oh-my-zsh now
+#plus function "ls with cd"
